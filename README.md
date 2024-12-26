@@ -1,2 +1,2 @@
 # Pharmacy-management-system
-first commit
+Welcome to Pharmacy Management System
